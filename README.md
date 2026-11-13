@@ -14,5 +14,5 @@ private, so this repository holds no code: it's where you reach us.
 - **A security problem:** email hello@polycode.co.nz. Please don't open a public issue for it.
 - **Your licence, an invoice or a refund:** email hello@polycode.co.nz.
 
-The [docs](https://www.wishble.co.nz/docs) cover installing, every setting and the host class, and the
+The [docs](https://www.wishble.co.nz/docs) cover installing and every setting, and the
 [changelog](https://www.wishble.co.nz/changelog) says what each release changed.
