@@ -1,3 +1,5 @@
+<img src="art/wishble-banner.png" alt="Wishble: ideas and votes from your customers, in your Filament panel">
+
 # Wishble support
 
 Questions, bug reports and ideas for [Wishble](https://www.wishble.co.nz), the ideas board plugin for Filament panels. Wishble's code is
