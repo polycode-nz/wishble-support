@@ -1,0 +1,41 @@
+name: Something's broken
+description: Wishble does something it shouldn't, or doesn't do what the docs say.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you saw, and what you expected to see.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps that show it
+      description: From a fresh page, what to press or run. Include any error message and stack trace.
+      placeholder: |
+        1. Sign in to the customer panel
+        2. ...
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Wishble version
+      description: From `composer show polycode/wishble`.
+      placeholder: "1.5.0"
+    validations:
+      required: true
+  - type: input
+    id: stack
+    attributes:
+      label: Filament, Laravel and PHP versions
+      placeholder: "Filament 5.11, Laravel 12.40, PHP 8.4"
+    validations:
+      required: true
+  - type: textarea
+    id: setup
+    attributes:
+      label: Your setup
+      description: Anything that might matter, such as tenancy (Filament's or stancl/tenancy), a host class of your own, or a staff panel.

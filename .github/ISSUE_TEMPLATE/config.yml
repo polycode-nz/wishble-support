@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/polycode-nz/wishble-support/discussions
+    about: How to do something with Wishble, or whether it can.
+  - name: Report a security problem
+    url: mailto:hello@polycode.co.nz?subject=Wishble%20security
+    about: Email us. Please don't open a public issue for it.
+  - name: Your licence, an invoice or a refund
+    url: mailto:hello@polycode.co.nz?subject=Wishble%20licence
+    about: Email us.
